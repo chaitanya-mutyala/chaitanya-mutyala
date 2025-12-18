@@ -92,18 +92,19 @@
 ## 🧮 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/your-leetcode-username">
+  <a href="https://leetcode.com/u/chaitu_mutyala/">
     <img src="https://leetcard.jacoblin.cool/chaitu_mutyala?theme=dark&font=JetBrains%20Mono" />
   </a>
 </p>
+
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyamutyala&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyamutyala&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya_mutyala&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya_mutyala&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
