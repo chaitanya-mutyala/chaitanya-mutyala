@@ -15,7 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=chaitanya-mutyala&label=Profile%20views&color=blueviolet&style=flat" />
   </a>
   <a href="mailto:chaitanaymutyala456@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -120,7 +120,7 @@ https://github.com/chaitanyamutyala/Battery-SoH-RUL-Prediction
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-mutyala&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=chaitanya-mutyala&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
