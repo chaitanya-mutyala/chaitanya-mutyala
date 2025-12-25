@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Featured Projects (Pinned)
+## 🚀 Featured Projects 
 
 ### 🔥 PassTheTorch – Placement Journey Platform  
 **React · Appwrite · Tailwind · LLM API**
@@ -50,10 +50,10 @@ https://passthetorch.vercel.app
 ---
 
 ### ⚡ Smart Campus Energy Monitoring System  
-**IoT · RS485 Modbus · ESP8266 · React · Appwrite**
+**IoT · RS485 Modbus · ESP32 · React · Appwrite**
 
 - Real-time energy monitoring using industrial Modbus smart meters
-- ESP8266 used as cloud gateway with reliable data pipeline
+- ESP32 used as cloud gateway with reliable data pipeline
 - React dashboard to visualize live electrical parameters
 - Authentication and backend handled using Appwrite
 
@@ -111,8 +111,8 @@ https://github.com/chaitanyamutyala/Battery-SoH-RUL-Prediction
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya-mutyala&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-mutyala&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya_mutyala&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya_mutyala&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -120,7 +120,7 @@ https://github.com/chaitanyamutyala/Battery-SoH-RUL-Prediction
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=chaitanya-mutyala&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=chaitanya mutyala&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
