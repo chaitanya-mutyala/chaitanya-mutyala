@@ -111,8 +111,8 @@ https://github.com/chaitanyamutyala/Battery-SoH-RUL-Prediction
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya_mutyala&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya_mutyala&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya-mutyala&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-mutyala&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -120,7 +120,7 @@ https://github.com/chaitanyamutyala/Battery-SoH-RUL-Prediction
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=chaitanya mutyala&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=chaitanya-mutyala&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
