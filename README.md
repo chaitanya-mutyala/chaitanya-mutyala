@@ -42,10 +42,10 @@
 - Designed for scalability and clean UX
 
 🔗 **GitHub Repo:**  
-https://github.com/chaitanyamutyala/PassTheTorch  
+[https://github.com/chaitanya-mutyala/PassTheTorch](https://github.com/chaitanya-mutyala/PassTheTorch)
 
 🌐 **Live Demo:**  
-https://passthetorch.vercel.app  
+[https://passthetorch.vercel.app  ](https://pass-the-torch.vercel.app/)
 
 ---
 
@@ -58,10 +58,10 @@ https://passthetorch.vercel.app
 - Authentication and backend handled using Appwrite
 
 🔗 **GitHub Repo:**  
-https://github.com/chaitanyamutyala/Smart-Campus-Energy-Monitoring-System  
+[https://github.com/chaitanyamutyala/Smart-Campus-Energy-Monitoring-System  ](https://github.com/chaitanya-mutyala/energy-meter-realtime-visualization)
 
 🌐 **Live Demo:**  
-https://smart-campus-energy.vercel.app  
+[https://smart-campus-energy.vercel.app  ](https://energy-meter-realtime-visualization.vercel.app/)
 
 ---
 
@@ -74,7 +74,7 @@ https://smart-campus-energy.vercel.app
 - Visualized degradation trends and prediction accuracy
 
 🔗 **GitHub Repo:**  
-https://github.com/chaitanyamutyala/Battery-SoH-RUL-Prediction  
+[https://github.com/chaitanyamutyala/Battery-SoH-RUL-Prediction  ](https://github.com/chaitanya-mutyala/EE363/tree/main/25/08_209/code)
 
 ---
 
