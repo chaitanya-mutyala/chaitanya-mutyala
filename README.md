@@ -14,8 +14,11 @@
   <a href="https://github.com/chaitanya-mutyala">
     <img src="https://komarev.com/ghpvc/?username=chaitanya-mutyala&label=Profile%20views&color=blueviolet&style=flat" />
   </a>
-  <a href="mailto:chaitanaymutyala456@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <a href="mailto:chaitanyamutyala456@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-ten-ashen-76.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -23,11 +26,20 @@
 
 ## 🧠 About Me 
 
-- 🎓 EEE student with strong interest in **software engineering**
+- 🎓 Electrical & Electronics Engineering student with strong interest in **software engineering**
 - 🧩 Solved **700+ DSA problems** across coding platforms
 - ⚙️ Experience building **end-to-end projects** (design → code → deploy)
 - 🔌 Comfortable working at the **intersection of hardware & software**
 - 💡 Believe in learning by **building and debugging real systems**
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Live Website:**  
+https://portfolio-ten-ashen-76.vercel.app/
+
+A personal portfolio showcasing my projects, technical skills, and hands-on experience in software development, IoT systems, and problem solving.
 
 ---
 
@@ -42,26 +54,26 @@
 - Designed for scalability and clean UX
 
 🔗 **GitHub Repo:**  
-[https://github.com/chaitanya-mutyala/PassTheTorch](https://github.com/chaitanya-mutyala/PassTheTorch)
+https://github.com/chaitanya-mutyala/PassTheTorch
 
 🌐 **Live Demo:**  
-[https://passthetorch.vercel.app  ](https://pass-the-torch.vercel.app/)
+https://pass-the-torch.vercel.app/
 
 ---
 
 ### ⚡ Smart Campus Energy Monitoring System  
-**IoT · RS485 Modbus · ESP32 · React · Appwrite**
+**IoT · RS485 Modbus · ESP32 · React · Firebase**
 
 - Real-time energy monitoring using industrial Modbus smart meters
-- ESP32 used as cloud gateway with reliable data pipeline
-- React dashboard to visualize live electrical parameters
-- Authentication and backend handled using Appwrite
+- ESP32 used as an edge gateway with a reliable cloud data pipeline
+- React dashboard to visualize live and historical electrical parameters
+- Time-based data organization for efficient querying and analytics
 
 🔗 **GitHub Repo:**  
-[https://github.com/chaitanyamutyala/Smart-Campus-Energy-Monitoring-System  ](https://github.com/chaitanya-mutyala/energy-meter-realtime-visualization)
+https://github.com/chaitanya-mutyala/energy-meter-realtime-visualization
 
 🌐 **Live Demo:**  
-[https://smart-campus-energy.vercel.app  ](https://energy-meter-realtime-visualization.vercel.app/)
+https://energy-meter-realtime-visualization.vercel.app/
 
 ---
 
@@ -74,7 +86,7 @@
 - Visualized degradation trends and prediction accuracy
 
 🔗 **GitHub Repo:**  
-[https://github.com/chaitanyamutyala/Battery-SoH-RUL-Prediction  ](https://github.com/chaitanya-mutyala/EE363/tree/main/25/08_209/code)
+https://github.com/chaitanya-mutyala/EE363/tree/main/25/08_209/code
 
 ---
 
@@ -89,12 +101,12 @@
 
 ## 📚 Core Knowledge
 
-- Data Structures & Algorithms 
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Embedded Systems & IoT Fundamentals
-- Electrical & Energy Systems
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Database Management Systems  
+- Operating Systems  
+- Embedded Systems & IoT Fundamentals  
+- Electrical & Energy Systems  
 
 ---
 
@@ -126,5 +138,5 @@
 ---
 
 <p align="center">
-🚀 Open to Work | Strong fundamentals | Ready to learn fast
+🚀 Open to Work | Strong Fundamentals | Ready to Learn Fast
 </p>
