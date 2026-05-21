@@ -37,7 +37,7 @@
 ## 🌐 Portfolio
 
 🔗 **Live Website:**  
-https://portfolio-ten-ashen-76.vercel.app/
+https://chaitanyamutyala.vercel.app/
 
 A personal portfolio showcasing my projects, technical skills, and hands-on experience in software development, IoT systems, and problem solving.
 
